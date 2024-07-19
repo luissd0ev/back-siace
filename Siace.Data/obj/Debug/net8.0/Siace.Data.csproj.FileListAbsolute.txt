@@ -1,0 +1,14 @@
+C:\Proyectoss\CursoNet\Siace.Data\bin\Debug\net8.0\Siace.Data.deps.json
+C:\Proyectoss\CursoNet\Siace.Data\bin\Debug\net8.0\Siace.Data.dll
+C:\Proyectoss\CursoNet\Siace.Data\bin\Debug\net8.0\Siace.Data.pdb
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.AssemblyInfoInputs.cache
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.AssemblyInfo.cs
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.csproj.CoreCompileInputs.cache
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.dll
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\refint\Siace.Data.dll
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.pdb
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\ref\Siace.Data.dll
+C:\Proyectoss\CursoNet\Siace.Data\bin\Debug\net8.0\Siace.Data.runtimeconfig.json
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.csproj.AssemblyReference.cache
+C:\Proyectoss\CursoNet\Siace.Data\obj\Debug\net8.0\Siace.Data.genruntimeconfig.cache
